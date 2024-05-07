@@ -1,0 +1,13 @@
+# CW3: New WEAT Test based on co-creation
+# SwissText 2024 Leander
+# See technical report for details about procedure 
+# Target: traditionalists
+# Target: communicator
+# Attribute: native
+# Attribute: immigrant
+Bewahrung,Konservatismus,Unflexibilität,Konventionalität,Tradition,Gewohnheit
+Kommunikation,Vermittlung,Verbindung,Vielfalt,Mehrsprachigkeit,Integration
+Einheimischer,Bürger,Staatsangehöriger,Landesangehöriger,Ansässiger,Ortsansässiger
+Ausländer,Einwanderer,Immigrant,Migrant,Migrationshintergrund,Gastarbeiter
+
+

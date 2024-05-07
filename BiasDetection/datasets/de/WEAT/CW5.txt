@@ -1,0 +1,11 @@
+# CW5: New WEAT Test based on co-creation.
+# SwissText 2024 Leander
+# See technical report for details about procedure 
+# Target: productive
+# Target: unproductive
+# Attribute: male
+# Attribute: female
+Effizienz,Leistungswille,Engagement,Ambition,Zielstrebigkeit,Kompetenz,Motivation,Einsatzbereitschaft,Beharrlichkeit,Eifer
+Ablenkung,Unaufmerksamkeit,Ineffizienz,Nachlässigkeit,Desorganisation,Überforderung,Zerstreutheit,Desinteresse,Unachtsamkeit,Sorglosigkeit
+Mann,Junge,Bruder,Sohn,Vater
+Frau,Mädchen,Schwester,Tochter,Mutter

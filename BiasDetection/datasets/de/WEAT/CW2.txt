@@ -1,0 +1,11 @@
+# CW2: New WEAT Test based on co-creation
+# SwissText 2024 Leander
+# See technical report for details about procedure 
+# Target: productive
+# Target: unproductive
+# Attribute: young
+# Attribute: old
+Effizienz,Leistungswille,Engagement,Ambition,Zielstrebigkeit,Kompetenz,Motivation,Einsatzbereitschaft,Beharrlichkeit,Eifer
+Ablenkung,Unaufmerksamkeit,Ineffizienz,Nachlässigkeit,Desorganisation,Überforderung,Zerstreutheit,Desinteresse,Unachtsamkeit,Sorglosigkeit
+Jugendlicher,Jugendliche,Jugend,Studium,Berufseinstieg,Mittzwanziger,Schülerin,Schüler,Student,Studentin
+Älterer,Ältere,Lebensmitte,Erwachsene,Lebenserfahrung,Erwachsener,Rentner,Rentnerin,Senior,Seniorin
