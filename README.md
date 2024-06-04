@@ -2,6 +2,10 @@
 
 Open-source outcomes of the Horizon Europe Project BIAS https://www.biasproject.eu/ 
 
+| Paper | Langauge(s) | Subfolder of this repository  |
+|---|---|---|
+|   |   |   |
+
 Word and sentence lists from the following paper are available in the folder BiasDetection/datasets/de
 Rankwiler, L. and Kurpicz-Briki, M. (2024). Evaluating Labor Market Biases Reflected in German Word Embeddings. Accepted for publication at SwissText 2024.
 
