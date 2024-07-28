@@ -1,0 +1,5 @@
+# WEAT_2 for word2vec, removed "axe" because it is not in the vocab of word2vec (not mentioned in Caliskan). removed "bagpipe" (1. word in Target1 list to balance the number of words)
+cello,guitar,lute,trombone,banjo,clarinet,harmonica,mandolin,trumpet,bassoon,drum,harp,oboe,tuba,bell,fiddle,harpsichord,piano,viola,bongo,flute,horn,saxophone,violin
+arrow,club,gun,missile,spear,dagger,harpoon,pistol,sword,blade,dynamite,hatchet,rifle,tank,bomb,firearm,knife,shotgun,teargas,cannon,grenade,mace,slingshot,whip
+caress,freedom,health,love,peace,cheer,friend,heaven,loyal,pleasure,diamond,gentle,honest,lucky,rainbow,diploma,gift,honor,miracle,sunrise,family,happy,laughter,paradise,vacation
+abuse,crash,filth,murder,sickness,accident,death,grief,poison,stink,assault,disaster,hatred,pollute,tragedy,divorce,jail,poverty,ugly,cancer,kill,rotten,vomit,agony,prison

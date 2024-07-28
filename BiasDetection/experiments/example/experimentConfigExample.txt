@@ -1,0 +1,9 @@
+###
+# You can add all the experiments that you want to execute in such a .txt file.
+# All lines starting with # are ignored.
+# Each line should have the following format: datasetname,testname,embeddings,language,modelname
+# The modelname is required for BERT experiments (as previously set in config.py) and can be set to None for the other experiments.
+###
+SEAT_WEAT_7,bert,en,google-bert/bert-base-uncased
+CW1,WEAT,fasttext,de,None
+

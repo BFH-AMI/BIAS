@@ -1,0 +1,12 @@
+##
+## SEAT Experiments German BERT: google-bert/bert-base-german-cased
+##
+CW1_context,SEAT,bert,de,google-bert/bert-base-german-cased
+CW2_context,SEAT,bert,de,google-bert/bert-base-german-cased
+CW3_context,SEAT,bert,de,google-bert/bert-base-german-cased
+CW4_context,SEAT,bert,de,google-bert/bert-base-german-cased
+CW5_context,SEAT,bert,de,google-bert/bert-base-german-cased
+GER1_context,SEAT,bert,de,google-bert/bert-base-german-cased
+GER2_context,SEAT,bert,de,google-bert/bert-base-german-cased
+WEAT7_DE_context,SEAT,bert,de,google-bert/bert-base-german-cased
+WEAT8_DE_context,SEAT,bert,de,google-bert/bert-base-german-cased

@@ -1,0 +1,4 @@
+math, algebra, geometry, calculus, equations, computation, numbers, addition
+poetry, art, dance, literature, novel, symphony, drama, sculpture
+male, man, boy, brother, he, him, his, son
+female, woman, girl, sister, she, her, hers, daughter

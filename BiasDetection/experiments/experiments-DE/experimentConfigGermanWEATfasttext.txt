@@ -1,0 +1,6 @@
+## WEAT Experiments German fasttext
+CW1,WEAT,fasttext,de,None
+CW2,WEAT,fasttext,de,None
+CW3,WEAT,fasttext,de,None
+CW4,WEAT,fasttext,de,None
+CW5,WEAT,fasttext,de,None

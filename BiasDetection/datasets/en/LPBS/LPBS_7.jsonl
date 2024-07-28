@@ -1,0 +1,9 @@
+{
+    "targ1": {"singular": ["he"], "plural": ["boys", "men"]},
+    "targ2" : {"singular": ["she"], "plural": ["girls", "women"]},
+    "attr1": ["math", "algebra", "geometry", "calculus", "equations", "computation", "numbers", "addition"],
+    "attr2": ["poetry", "art", "dance", "literature", "novel", "symphony", "drama", "sculpture"],
+    "templates": 
+        {"singular" : ["TARGET likes ATTRIBUTE.", "TARGET is interested in ATTRIBUTE."],
+        "plural" : ["TARGET like ATTRIBUTE."]}
+}
