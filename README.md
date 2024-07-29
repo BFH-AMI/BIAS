@@ -4,9 +4,12 @@ This repository contains partial outcomes of the Horizon Europe Project BIAS htt
 
 *Important Note:* This repository will be updated soon with additional results and examples to explore the full functionality. 
 
-**Reference:** When using this repository, please cite the following pre-print: 
-Alexandre Puttick, Leander Rankwiler, Catherine Ikae and Mascha Kurpicz-Briki (2024). The BIAS Detection Framework: Bias Detection in Word Embeddings and Language Models for European Languages. Arxiv Pre-Print.
-**TODO: Add pre-print link.**
+**Reference:** 
+
+When using this repository, please cite the following pre-print: 
+
+Alexandre Puttick, Leander Rankwiler, Catherine Ikae and Mascha Kurpicz-Briki (2024). The BIAS Detection Framework: Bias Detection in Word Embeddings and Language Models for European Languages. arXiv:2407.18689 [cs.CL].
+Available at https://arxiv.org/abs/2407.18689
 
 Other papers based on this repository:
 
@@ -99,8 +102,8 @@ The following table gives an overview of the options for the different values me
 | Name | Possible Values |
 |----------|----------|
 | dataset | Available datasets for the corresponding language can be found in datasets/<language>. For example, available WEAT tests for English are stored in datasets/en/WEAT/*.txt. You would use here the filename without the .txt |
-| testname | WEAT, SEAT, LPBS, CROWS (refer to paper (**LINK**) for details about the different tests) |
-| embeddings | fasttext, word2vec, glove, mBERT, bert, bert_pooling, bert_first (refer to paper (**LINK**) for details about the different embeddings) |
+| testname | WEAT, SEAT, LPBS, CROWS (refer to paper (https://arxiv.org/abs/2407.18689) for details about the different tests) |
+| embeddings | fasttext, word2vec, glove, mBERT, bert, bert_pooling, bert_first (refer to paper (https://arxiv.org/abs/2407.18689) for details about the different embeddings) |
 | languages | Available languages depending on the datasets and model selection (de=German, en=English, no=Norwegian, is=Icelandic, it=Italian, ne=Dutch, tr=Turkish) |
 | modelname | Set to None for fasttext, word2vec, glove, mBERT. For BERT, select the corresponding model name, e.g., for English bert-base-uncased, or for Norwegian ltg/norbert3-base **TODO: Integrate OpenAI and VoyageAPI Documentation** |
 
